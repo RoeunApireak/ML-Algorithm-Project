@@ -5,19 +5,19 @@ Most Importantly how inclusion of holidays in a week soar the sales in store?  W
 ## Objective 
 In this project, you aim to forecast the sales for Walmart using various Machine Learning Algorithms to analyze if sales are impacted by time based factors and space based factors  and analytical insights.
 ## Within this file you will find the following fields:
-●	Store - the store number
-●	Dept - the department number
-●	Date - the week
-●	Weekly_Sales -  sales for the given department in the given store
-●	IsHoliday - whether the week is a special holiday week
-●	Store - the store number
-●	Date - the week
-●	Temperature - average temperature in the region
-●	Fuel_Price - cost of fuel in the region
-●	MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA.
-●	CPI - the consumer price index
-●	Unemployment - the unemployment rate
-●	IsHoliday - whether the week is a special holiday week
+-	Store - the store number
+-	Dept - the department number
+-	Date - the week
+-	Weekly_Sales -  sales for the given department in the given store
+-	IsHoliday - whether the week is a special holiday week
+-	Store - the store number
+-	Date - the week
+-	Temperature - average temperature in the region
+-	Fuel_Price - cost of fuel in the region
+-	MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA.
+-	CPI - the consumer price index
+-	Unemployment - the unemployment rate
+-	IsHoliday - whether the week is a special holiday week
 ## For convenience, the four holidays fall within the following weeks in the dataset (not all holidays are in the data):
 ●	Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
 ●	Labor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
